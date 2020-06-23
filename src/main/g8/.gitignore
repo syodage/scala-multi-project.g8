@@ -1,0 +1,13 @@
+# Scala Metals 
+.metals
+.bloop
+metals.sbt
+
+# Scala
+target/
+lib_managed/
+src_managed/
+
+# Intelij Idea
+.idea
+*.iml
